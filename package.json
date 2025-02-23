@@ -1,0 +1,19 @@
+{
+  "name": "ekart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-130/ekart.git"
+  },
+  "author": "prashant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-130/ekart/issues"
+  },
+  "homepage": "https://github.com/prashant-130/ekart#readme",
+  "description": ""
+}
