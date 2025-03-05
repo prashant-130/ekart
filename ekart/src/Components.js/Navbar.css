@@ -1,0 +1,22 @@
+.navbar-button
+{
+    background-color: white;
+    border: 1px solid gold;
+    color: black;
+}
+.navbar-button:hover{
+    background-color: gold;
+    color: white;
+    border: 1px solid white;
+}
+
+.navbar-button:hover .ab{
+    background-color: gold;
+    color: white !important;
+}
+.offcanvas12:hover {
+    background-color: gold;
+    color: white !important;
+    transition: all .3s ease-in-out;
+
+}
